@@ -1,5 +1,3 @@
-JavaScript 
-
 // Este es un programa básico para probar nuestro Pipeline 
 console.log("Iniciando sistema de pruebas de Calidad..."); 
 function sumar(a, b) { 
